@@ -9,23 +9,12 @@
 
 - 🧰 Toolbox: MS Excel | SQL | Python | Power BI | DAX | Power Query
 
-- 🔗 LinkedIn: [https://www.linkedin.com/in/pooja-suhag-2000-ps/](https://www.linkedin.com/in/pooja-suhag-2000-ps/)
-
-- ❤️ Passionate About: Learning and exploring new things!
-
 - 💬 Ask me about: Excel | SQL | Power BI
 
+- 🔗 LinkedIn: [https://www.linkedin.com/in/pooja-suhag-2000-ps/](https://www.linkedin.com/in/pooja-suhag-2000-ps/)
+
 - 📫 How to reach me **poojasuhag77777@gmail.com**
-
+  
+- ❤️ Passionate About: Learning and exploring new things!
+  
 - 🌟 **Fun Fact**: **Transitioned from engineering to a data analyst professional**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojasuhag7&show_icons=true&locale=en&layout=compact" alt="poojasuhag7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojasuhag7&show_icons=true&locale=en" alt="poojasuhag7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojasuhag7&" alt="poojasuhag7" /></p>
-
