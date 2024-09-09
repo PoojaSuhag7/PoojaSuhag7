@@ -11,7 +11,7 @@
 
 - 💬 Ask me about: Excel | SQL | Power BI
 
-- 🔗 LinkedIn: [https://www.linkedin.com/in/pooja-suhag-2000-ps/](https://www.linkedin.com/in/pooja-suhag-2000-ps/)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/pooja-analyst/]
 
 - 📫 How to reach me **poojasuhag77777@gmail.com**
   
